@@ -29,9 +29,9 @@ export default function ClientsIWorkWith() {
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="/assets/image/clients/mcdelivery-logo.png"
-            alt="McDelivery Logo"
-            width={288}
+            src="/assets/image/clients/mcdonalds-logo.png"
+            alt="McDonalds Logo"
+            width={112}
             height={112}
           />
         </div>
