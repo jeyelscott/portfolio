@@ -4,13 +4,13 @@ export default function Footer() {
       <div className="container max-w-screen-xl mx-auto px-4">
         <div className="text-center">
           <h1 className="font-medium text-gray-700 text-4xl md:text-5xl mb-5">
-            Let's Connect
+            Let&apos;s Connect
           </h1>
 
           <p className="font-normal text-gray-400 text-md md:text-lg mb-20">
-            I'm always open to new opportunities, collaborations, and
-            interesting projects. If you're looking for a dedicated Laravel
-            developer, let's connect! You can reach me via{" "}
+            I&apos;m always open to new opportunities, collaborations, and
+            interesting projects. If you&apos;re looking for a dedicated Laravel
+            developer, let&apos;s connect! You can reach me via{" "}
             <b>
               <a href="mailto:zhaile.014@gmail.com">zhaile.014@gmail.com</a>
             </b>{" "}

@@ -13,7 +13,8 @@ export default function CollaborativeSpirit() {
 
       <p className="font-normal text-gray-500 text-md">
         I thrive in collaborative environments and believe that the best results
-        come from working together. Let's build something amazing as a team!
+        come from working together. Let&apos;s build something amazing as a
+        team!
       </p>
     </div>
   );

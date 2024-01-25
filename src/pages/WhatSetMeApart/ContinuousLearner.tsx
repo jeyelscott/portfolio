@@ -12,9 +12,9 @@ export default function ContinuousLearner() {
       </h4>
 
       <p className="font-normal text-gray-500 text-md">
-        The tech world evolves at warp speed, and I'm always hungry to learn new
-        technologies and stay ahead of the curve. Learning is not a destination
-        but a journey.
+        The tech world evolves at warp speed, and I&apos;m always hungry to
+        learn new technologies and stay ahead of the curve. Learning is not a
+        destination but a journey.
       </p>
     </div>
   );
