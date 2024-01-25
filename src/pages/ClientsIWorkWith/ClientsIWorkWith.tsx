@@ -11,58 +11,73 @@ export default function ClientsIWorkWith() {
         <div className="h-36 flex justify-self-center">
           <Image
             className="suysing-logo m-4 p-4 h-30 w-auto"
-            src="https://www.suysing.com/static/img/logo_suysing_white.75e37a4.png"
+            src="/assets/image/clients/suysing-logo.png"
             alt="SuySing Logo"
+            width={312}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://viva.com.ph/storage/setting/5/logo.png"
-            alt="Image"
+            src="/assets/image/clients/viva-logo.png"
+            alt="Viva"
+            width={250}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://www.mcdelivery.com.ph/_nuxt/img/McDonald_McDelivery_Horizontal.2be36a1.png
-"
-            alt="Image"
+            src="/assets/image/clients/mcdelivery-logo.png"
+            alt="McDelivery Logo"
+            width={288}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://pikapika.ph/storage/media/image/setting-media/c4ca4238a0b923820dcc509a6f75849b/default/f0f072c0dbbe1e8b36afffba199afa23/logo.png?v=1667447610"
-            alt="Image"
+            src="/assets/image/clients/pikapika-logo.png"
+            alt="PikaPika Logo"
+            width={125}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://nexentire.com.ph/_nuxt/img/ndpi-logo.b672d70.png"
-            alt="Image"
+            src="/assets/image/clients/nexen-logo.png"
+            alt="Nexen Logo"
+            width={240}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://asiaiplaw.com/storage/imageable/setting/a87ff679a2f3e71d9181a67b7542122c/dafault-For%20WebsiteAPEC_ASIA_MASTHEAD%201.png"
-            alt="Image"
+            src="/assets/image/clients/asiaip-logo.png"
+            alt="AsiaIP Logo"
+            width={227}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://assets.unilab.com.ph/assets/assets/images/logo-unilab-header.webp"
-            alt="Image"
+            src="/assets/image/clients/unilab-logo.webp"
+            alt="Unilab Logo"
+            width={242}
+            height={112}
           />
         </div>
         <div className="h-36 flex justify-self-center">
           <Image
             className="m-4 p-4 h-30 w-auto"
-            src="https://mondenissin.com/wp-content/uploads/elementor/thumbs/cropped-MNC-Logo-3-q03tu9m7nfh70jxv7mnfzcja0p9igdub3lcpeeua5k.png"
-            alt="Image"
+            src="/assets/image/clients/monde-logo.png"
+            alt="Monde Logo"
+            width={112}
+            height={112}
           />
         </div>
       </div>

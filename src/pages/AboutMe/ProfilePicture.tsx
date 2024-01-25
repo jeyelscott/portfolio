@@ -4,8 +4,10 @@ export default function ProfilePicture() {
     <div className="flex justify-center pb-4">
       <Image
         className="rounded-full border-separate border border-black w-72"
-        src="assets/image/profile-picture.jpg"
+        src="/assets/image/profile-picture.jpg"
         alt="Profile Picture"
+        width={288}
+        height={288}
       />
     </div>
   );
