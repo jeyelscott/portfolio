@@ -1,7 +1,7 @@
 export default function Nav() {
   return (
-    <nav className="flex items-center justify-between mb-40">
-      <button className="px-7 py-3 md:px-9 md:py-4 bg-white font-medium md:font-semibold text-gray-700 text-md rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500">
+    <nav className="mb-40 flex items-center justify-between">
+      <button className="text-md rounded-md bg-white px-7 py-3 font-medium text-gray-700 transition duration-500 ease-linear hover:bg-gray-700 hover:text-white md:px-9 md:py-4 md:font-semibold">
         Get my CV
       </button>
     </nav>
