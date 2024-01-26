@@ -12,7 +12,9 @@ export default function Footer() {
             interesting projects. If you&apos;re looking for a dedicated Laravel
             developer, let&apos;s connect! You can reach me via{" "}
             <b>
-              <a href="mailto:zhaile.014@gmail.com">zhaile.014@gmail.com</a>
+              <a href="mailto:jleward.escote17@gmail.com">
+                jleward.escote17@gmail.com
+              </a>
             </b>{" "}
             or connect with me on{" "}
             <b>
